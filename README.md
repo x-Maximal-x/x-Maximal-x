@@ -42,5 +42,5 @@ I’m passionate about cyber defense, automation, and identifying vulnerabilitie
 - Designed a digital transformation roadmap to improve internal operations and client services.
 - Analyzed current IT capabilities and proposed digitized solutions aligned with business strategy.
 - Delivered presentations and documentation as part of a university consulting project.
-# Pradeep Ragunathan Karunakaran
+
 
