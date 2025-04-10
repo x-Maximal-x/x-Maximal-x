@@ -43,4 +43,9 @@ I’m passionate about cyber defense, automation, and identifying vulnerabilitie
 - Analyzed current IT capabilities and proposed digitized solutions aligned with business strategy.
 - Delivered presentations and documentation as part of a university consulting project.
 
+### 5. **Phishing SOC Simulation**
+- Simulated a Security Operations Center (SOC) environment to investigate phishing incidents.
+- Analyzed and responded to phishing emails, identifying malicious links and attachments.
+- Developed countermeasures and provided security awareness recommendations to prevent future phishing attacks.
 
+---
