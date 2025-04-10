@@ -1,4 +1,4 @@
-# Pradeep Ragunathan Karunakaran
+# Pradeep 
 
 📧 **Email**: [pradeep23rk@gmail.com](mailto:pradeep23rk@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pradeep-ragunathan-karunakaran-26476a271/)
